@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "source": "Greenhouse \u2014 Current Pipeline Per Job",
+    "as_of": "04-01-2026",
+    "exported_by": "Beyond ONE Recruiting",
+    "stages": [
+      "Application Review",
+      "Recruiter Pre-Screen",
+      "Assessment",
+      "Main Loop",
+      "De-brief",
+      "Offer"
+    ],
+    "generated": "2026-04-02"
+  },
+  "totals": {
+    "Application Review": 196,
+    "Recruiter Pre-Screen": 10,
+    "Assessment": 0,
+    "Main Loop": 11,
+    "De-brief": 0,
+    "Offer": 0
+  },
+  "jobs": [
+    {
+      "job": "Senior BI Engineer",
+      "req_id": "10441",
+      "department": "Technology",
+      "office": "Lahore",
+      "stages": {
+        "Application Review": 84,
+        "Recruiter Pre-Screen": 3,
+        "Assessment": 0,
+        "Main Loop": 4,
+        "De-brief": 0,
+        "Offer": 0
+      },
+      "total_active": 91
+    },
+    {
+      "job": "Senior Data Engineer II",
+      "req_id": "10442",
+      "department": "Technology",
+      "office": "Lahore",
+      "stages": {
+        "Application Review": 44,
+        "Recruiter Pre-Screen": 4,
+        "Assessment": 0,
+        "Main Loop": 4,
+        "De-brief": 0,
+        "Offer": 0
+      },
+      "total_active": 52
+    },
+    {
+      "job": "Senior ML Engineer I",
+      "req_id": "10443",
+      "department": "Technology",
+      "office": "Lahore",
+      "stages": {
+        "Application Review": 68,
+        "Recruiter Pre-Screen": 3,
+        "Assessment": 0,
+        "Main Loop": 3,
+        "De-brief": 0,
+        "Offer": 0
+      },
+      "total_active": 74
+    },
+    {
+      "job": "Senior Software Engineer I - .NET",
+      "req_id": "10389",
+      "department": "Technology",
+      "office": "Lahore",
+      "stages": {
+        "Application Review": 0,
+        "Recruiter Pre-Screen": 0,
+        "Assessment": 0,
+        "Main Loop": 0,
+        "De-brief": 0,
+        "Offer": 0
+      },
+      "total_active": 0
+    }
+  ]
+}
