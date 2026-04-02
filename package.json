@@ -1,0 +1,24 @@
+{
+  "name": "greenhouse-mcp",
+  "version": "1.0.0",
+  "description": "Greenhouse ATS MCP server for Claude — live Job Board API + mock Harvest analytics",
+  "type": "module",
+  "main": "server.js",
+  "bin": {
+    "greenhouse-mcp": "server.js"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0",
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
